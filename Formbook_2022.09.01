@@ -1,0 +1,104 @@
+Formbook v4.1 | modiloader | 3nop | 2022.09.01
+# --------------------------------------------------------- #
+# ------------------------ SOURCE ------------------------- #
+# --------------------------------------------------------- #
+.7z		b5b130e632666a1bb681e35d9288782ddaaa4eb5d160be6255221c63fbed6c88
+.exe	c95ce15e9a397c481d3bb6359db2ef85a9da957a50334fc959b34b4c02e10b0d
+
+
+# --------------------------------------------------------- #
+# -------------------- SANDBOX REPORT/S ------------------- #
+# --------------------------------------------------------- #
+https://private.tria.ge/220901-n72yfsrzzk
+
+
+# --------------------------------------------------------- #
+# ---------------------- PROCESS TREE --------------------- #
+# --------------------------------------------------------- #
+C:\Windows\Explorer.EXE
+C:\Windows\Explorer.EXE
+
+    C:\Users\Admin\AppData\Local\Temp\overdue invoice is attached.exe
+    "C:\Users\Admin\AppData\Local\Temp\overdue invoice is attached.exe"
+
+    C:\Windows\SysWOW64\iexpress.exe
+    "C:\Windows\System32\iexpress.exe" 
+
+    C:\Windows\SysWOW64\wlanext.exe
+    "C:\Windows\SysWOW64\wlanext.exe"
+
+    C:\Windows\SysWOW64\cmd.exe
+    /c copy "C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Login Data" "C:\Users\Admin\AppData\Local\Temp\DB1" /V
+
+        C:\Program Files\Mozilla Firefox\Firefox.exe
+        "C:\Program Files\Mozilla Firefox\Firefox.exe"
+
+
+# --------------------------------------------------------- #
+# --------------------- DECOY DOMAINS --------------------- #
+# --------------------------------------------------------- #
+slot999.site
+hagsahoy.com
+howdyart.com
+orders-marketplace.com
+ranaa.email
+masterlink.guru
+archershut.com
+weikumcommunications.com
+dphardmoney.com
+shjyutie.com
+vivaberlin.net
+mycto.today
+curvygirlugc.com
+otnmp.cfd
+alwrists.com
+propercandlecompany.com
+allindustry-bg.com
+theyoungbizacademy.com
+expand658170.com
+leslainesdumouchon.com
+suptisa.com
+picnic-in-andong.com
+wanligui.com
+cesarjunaro.com
+kuxita.xyz
+simpkecpr.com
+microsoftsecuritys.com
+responsefactor.com
+polyggroup.com
+talonxmfg.biz
+jam-nins.com
+picuar.com
+familysafehidingplaces.com
+centericehockey.com
+appleidd.info
+igctsansculottism.sbs
+guiaestilosaude.online
+happysscribe.com
+tizzbizz.com
+qcorretor.com
+baremaster.online
+liputanlima.com
+ontherighttrack.systems
+zzza002.xyz
+k-aashirwaad.com
+stillwatersagawork.com
+skindoze.com
+asdjmhfg.xyz
+refaccionariafgnogales.com
+hunn.pro
+tlland.group
+homebizen.com
+newszi.xyz
+nicetimecafe.net
+qdbs.cloud
+ebtl.wtf
+dchasss.com
+kijangjantan.tech
+elegant-story.com
+glimtmedia.com
+1dot.online
+neatneighborncclean.com
+marionarzel.com
+app-arthrex.com
+xctech.world

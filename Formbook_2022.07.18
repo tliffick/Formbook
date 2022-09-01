@@ -1,0 +1,45 @@
+Formbook v4.1 | xloader | 2022.07.18
+# --------------------------------------------------------- #
+# ------------------------ SOURCE ------------------------- #
+# --------------------------------------------------------- #
+.7z		b5b130e632666a1bb681e35d9288782ddaaa4eb5d160be6255221c63fbed6c88
+.exe	bb8bb6de14e9a1480013777878bd3106f4e9f622226f0429b790f4311e827456
+
+
+# --------------------------------------------------------- #
+# -------------------- SANDBOX REPORT/S ------------------- #
+# --------------------------------------------------------- #
+https://private.tria.ge/220718-qr9dpsjzm2
+
+
+# --------------------------------------------------------- #
+# ---------------------- PROCESS TREE --------------------- #
+# --------------------------------------------------------- #
+C:\Windows\Explorer.EXE
+C:\Windows\Explorer.EXE
+
+    C:\Users\Admin\AppData\Local\Temp\czEs6k9wVuF6uUM.exe
+    "C:\Users\Admin\AppData\Local\Temp\czEs6k9wVuF6uUM.exe"
+
+        C:\Users\Admin\AppData\Local\Temp\czEs6k9wVuF6uUM.exe
+        "C:\Users\Admin\AppData\Local\Temp\czEs6k9wVuF6uUM.exe"
+
+            C:\Windows\SysWOW64\NETSTAT.EXE
+            "C:\Windows\SysWOW64\NETSTAT.EXE"
+
+                C:\Windows\SysWOW64\cmd.exe
+                /c del "C:\Users\Admin\AppData\Local\Temp\czEs6k9wVuF6uUM.exe"
+
+                    C:\Program Files\Mozilla Firefox\Firefox.exe
+                    "C:\Program Files\Mozilla Firefox\Firefox.exe"
+
+    C:\Program Files (x86)\Jrxl0ul\mfc_v1h9bm.exe
+    "C:\Program Files (x86)\Jrxl0ul\mfc_v1h9bm.exe"
+
+        C:\Program Files (x86)\Jrxl0ul\mfc_v1h9bm.exe
+        "C:\Program Files (x86)\Jrxl0ul\mfc_v1h9bm.exe"
+
+
+# --------------------------------------------------------- #
+# --------------------- DECOY DOMAINS --------------------- #
+# --------------------------------------------------------- #
